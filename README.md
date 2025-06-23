@@ -1,5 +1,3 @@
-# Declarative-apex
-
 # Declarative Apex in Lightning Web Components (LWC)
 
 ## 🔥 What is Declarative Apex?
